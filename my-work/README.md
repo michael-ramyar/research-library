@@ -7,7 +7,7 @@ Papers and presentations by Michael Ramyar, alone or with co-authors. Each entry
 Kevin Chan and Michael Ramyar. GIRO 2015 (IFoA), plenary session "The Bigger Picture", 26 October 2015.
 
 - Paper: [2015-chan-ramyar-practical-challenges-in-reserve-risk-paper.pdf](2015-chan-ramyar-practical-challenges-in-reserve-risk-paper.pdf) (this version dated October 2016). Source: [IFoA VLE](https://vle.actuaries.org.uk/course/info.php?id=1991); [IFoA website PDF](https://www.actuaries.org.uk/system/files/field/document/Plenary%203%20-%20Practical%20Challenges%20in%20Reserve%20Risk_0.pdf)
-- Paper as a web page: [2015-chan-ramyar-practical-challenges-in-reserve-risk-paper.html](2015-chan-ramyar-practical-challenges-in-reserve-risk-paper.html) (HTML version of the paper, reproduced in full, with typeset equations and the original figures)
+- Paper as a web page: [read online](https://michael-ramyar.github.io/research-library/my-work/2015-chan-ramyar-practical-challenges-in-reserve-risk-paper.html) (HTML version of the paper, reproduced in full, with typeset equations and the original figures)
 - Slides: [2015-chan-ramyar-practical-challenges-in-reserve-risk-slides.pdf](2015-chan-ramyar-practical-challenges-in-reserve-risk-slides.pdf) (version without animation). Source: [IFoA VLE](https://vle.actuaries.org.uk/pluginfile.php/143712/mod_resource/content/1/Plenary%203%20-%20A%20Bigger%20Picture%20FINAL%20%28wo%20animation%29.pdf)
 - Keywords: reserving, reserve risk, stochastic reserving, bootstrap, Mack's model
 
